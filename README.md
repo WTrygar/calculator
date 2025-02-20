@@ -1,4 +1,16 @@
-Simple calculator project from frontendmasters. Made with HTML & CSS.
+<h2>Simple calculator project from frontendmasters. Made with HTML, CSS and JavaScript.</h2>
 
-TODO:
--add javascript to make calculator actually work
+Calculator works as it should. Actions that You can do:
+math operations: add (+), subtract (-), multiply (×), divide (÷), and other: clear (C), undo last typed digit (←).
+
+Calculator can do operations on floats, but for now can't normally type float numbers. example:
+9 / 2 == 4.5
+4.5 + 5 == 5
+can't type somthing like 4.5, but You can create it :)
+
+TO DO:
+1. add option to create floats,
+2. add square and square root.
+
+![image](https://github.com/user-attachments/assets/1dc99d3a-67b0-4295-aa59-27949d131d1d)
+
