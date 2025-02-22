@@ -45,7 +45,7 @@ function handleSymbol(symbol){
     case '−':
     case '×':
     case '÷':
-    case '^':
+    case '**':
       handleMath(symbol);
       break;
   }
@@ -79,7 +79,7 @@ function flushOperation(intBuffer) {
     runningTotal *= intBuffer;
   } else if (previousOperator === '÷') {
     runningTotal /= intBuffer;
-  } else if (previousOperator === '^') {
+  } else if (previousOperator === '**') {
     runningTotal = runningTotal ** intBuffer;
   }
 }
