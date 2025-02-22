@@ -48,6 +48,9 @@ function handleSymbol(symbol){
     case '**':
       handleMath(symbol);
       break;
+    case '√':
+      buffer = Math.sqrt(buffer);
+      break;
   }
 }
 
