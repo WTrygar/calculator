@@ -14,5 +14,6 @@ TO DO:
 1. add option to create floats,
 2. add square root.
 
-![image](https://github.com/user-attachments/assets/1dc99d3a-67b0-4295-aa59-27949d131d1d)
+![image](https://github.com/user-attachments/assets/fe68abb7-bbe9-40ff-b638-71bc683a2711)
+
 
